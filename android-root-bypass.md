@@ -1,5 +1,7 @@
 # Bypassing root detection on Android #
 
+_Jan. 10, 2023_
+
 I've recently had to install a banking app on my Xiaomi Redmi 7. Upon launching it, I was greeted by "Sorry, this app doesn't support rooted devices".
 
 Welp, that sucks. My phone is not strictly "rooted", but I did unlock the bootloader and install a custom Android 10 ROM.
